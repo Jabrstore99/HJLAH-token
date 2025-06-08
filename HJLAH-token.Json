@@ -1,0 +1,11 @@
+{
+  "chainId": 101,
+  "address": "CP9QHjKXV5oT6iiaumK4Way1DPpT1PiG4YdrPtpyXZFP",
+  "symbol": "HJLAH",
+  "name": "Hajlah Coin",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/Jabrstore99/HJLAH-token/refs/heads/main/IMG_3354.png",
+  "tags": [
+    "community-token"
+  ]
+}
